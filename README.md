@@ -85,4 +85,4 @@ Next copy the token from jwt.ms and go to Postman, click on its *Authorization* 
 
 ![](./images/postman-lasttest.jpg)
 
-Paste the token in the *Token* field and click Send and notice the function returns successfully. 
+Paste the token in the *Token* field and click *Send* and notice the function returns once again with *Hello, World*.  You've successfully tested your protected Azure Function! 
